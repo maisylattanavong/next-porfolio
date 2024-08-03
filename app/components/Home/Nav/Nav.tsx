@@ -12,7 +12,7 @@ const Nav = ({openNav}:Props) => {
             <div className='flex items-center justify-between w-[90%] xl:w-[80%] h-full mx-auto'>
                 {/**Logo */}
                 <div className='text-[35px] font-semibold text-white'>
-                    Sa<span className='text-red-500'>j</span>al
+                    Mai<span className='text-red-500'>s</span>y
                 </div>
                 {/**Nav Links */}
                 <ul className='lg:flex hidden text-white items-center space-x-6 xl:space-x-10'>
