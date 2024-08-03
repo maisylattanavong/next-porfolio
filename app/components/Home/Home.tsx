@@ -4,6 +4,9 @@ import AboutMe from './AboutMe/AboutMe'
 import Service from './Services/Service'
 import Skill from './Skill/Skill'
 import Project from './Projects/Project'
+import Price from './Price/Price'
+import Review from './Review/Review'
+import Contact from './Contact/Contact'
 
 
 const Home = () => {
@@ -14,6 +17,9 @@ const Home = () => {
       <Service />
       <Skill />
       <Project />
+      <Price/>
+      <Review/>
+      <Contact/>
     </div>
   )
 }
