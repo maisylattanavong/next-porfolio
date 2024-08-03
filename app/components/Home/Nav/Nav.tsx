@@ -17,22 +17,22 @@ const Nav = ({openNav}:Props) => {
                 {/**Nav Links */}
                 <ul className='lg:flex hidden text-white items-center space-x-6 xl:space-x-10'>
                     <li className='navlink'>
-                        <Link href={`#`}>Home</Link>
+                        <Link href={`/`}>Home</Link>
                     </li>
                     <li className='navlink'>
-                        <Link href={`#`}>About</Link>
+                        <Link href={`/about`}>About</Link>
                     </li>
                     <li className='navlink'>
-                        <Link href={`#`}>Services</Link>
+                        <Link href={`/services`}>Services</Link>
                     </li>
                     <li className='navlink'>
-                        <Link href={`#`}>Porfolio</Link>
+                        <Link href={`/projects`}>Projects</Link>
                     </li>
                     <li className='navlink'>
-                        <Link href={`#`}>Blog</Link>
+                        <Link href={`/blog`}>Blog</Link>
                     </li>
                     <li className='navlink'>
-                        <Link href={`#`}>Contact</Link>
+                        <Link href={`/contact`}>Contact</Link>
                     </li>
                 </ul>
                 {/**Download and menu */}

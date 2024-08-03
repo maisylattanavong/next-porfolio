@@ -17,7 +17,7 @@ const Hero = () => {
                     <div data-aos="fade-right"  data-aos-delay="200"
                     className='bg-red-700 flex p-4 rounded-lg justify-between items-center'>
                         <BiCheckCircle className="w-[2.5rem] h-[2.5rem] lg:w-[2rem] lg:h-[2rem] xl:w-[3rem] xl:h-[3rem] text-white" />
-                        <h1 className='text-[20px] xl:text-[30px] text-yellow-300 font-bold'>+85620 99361995</h1>
+                        <h1 className='text-[20px] xl:text-[30px] text-yellow-300 font-bold'>+856 20 99361995</h1>
                         <p className='text-[20px] md:text-[18px] lg:text-[15px] xl:text-[20px] font-medium text-white'>
                             Complete Projects
                         </p>
