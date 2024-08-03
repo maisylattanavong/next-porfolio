@@ -2,6 +2,7 @@ import React from 'react'
 import Hero from './Hero/Hero'
 import AboutMe from './AboutMe/AboutMe'
 import Service from './Services/Service'
+import Skill from './Skill/Skill'
 
 
 const Home = () => {
@@ -10,6 +11,7 @@ const Home = () => {
         <Hero/>
         <AboutMe/>
         <Service/>
+      <Skill/>
     </div>
   )
 }
