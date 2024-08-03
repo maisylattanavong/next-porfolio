@@ -55,7 +55,6 @@ const Footer = () => {
             <div className='mt-[1.4rem] w-[80%] mx-auto text-white opacity-70'>
                     &#169; Copyright webdev warriors 2024
                 </div>
-
         </div>
     )
 }
